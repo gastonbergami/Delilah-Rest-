@@ -5,10 +5,10 @@ info:
   title: Delilah Restó
   termsOfService: 'http://swagger.io/terms/'
   contact:
-    email: crisgianoboli@gmail.com
+    email: gastonbergami@yahoo.com.ar
 externalDocs:
   description: Github Repository
-  url: 'https://github.com/crisgianoboli/delilah-resto.'
+  url: 'https://github.com/gastonbergami/Delilah-Rest-.git'
 host: localhost
 basePath: /
 tags:
